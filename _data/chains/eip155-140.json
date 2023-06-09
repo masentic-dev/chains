@@ -1,0 +1,27 @@
+{
+  "name": "Tomato Verse Testnet",
+  "chain": "Tomato Verse Testnet",
+  "icon": "tomato_verse",
+  "rpc": ["https://testnet.tomatoverse.games"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "TMTV",
+  "chainId": 140,
+  "networkId": 140,
+  "explorers": [
+    {
+      "name": "Tomato Verse Testnet Explorer",
+      "url": "https://testnet.explorer.tomatoverse.games",
+      "standard": "EIP3091"
+    }
+  ],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-248"
+  }
+}
